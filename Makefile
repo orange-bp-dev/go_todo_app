@@ -23,3 +23,5 @@ ps:	docker compose ps
 
 ## Execute tests
 test:	go test -race shuffle=on ./...
+
+## for push
